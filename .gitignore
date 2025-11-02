@@ -1,0 +1,8 @@
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.vs/
+git add .gitignore
+git commit -m "Add .gitignore back"

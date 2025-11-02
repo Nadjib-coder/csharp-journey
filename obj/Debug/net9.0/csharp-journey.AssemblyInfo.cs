@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharp-journey")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+634762c7739d237a230013b1fd6de73f0e599dda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9ba2a6493efe428aad73d5e004252e68c7956ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharp-journey")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharp-journey")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
